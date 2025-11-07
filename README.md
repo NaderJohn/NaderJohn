@@ -26,11 +26,11 @@
 ---
 
 ## 🚀 About Me
- Junior Data Analyst & BI Developer with experience in SQL, Power BI, and Python. Skilled in data preparation, modeling, and building 
+ **Junior Data Analyst & BI Developer with experience in SQL, Power BI, and Python. Skilled in data preparation, modeling, and building 
 star schemas to ensure accurate reporting and analysis. Experienced in designing interactive dashboards and reports that track KPIs, 
 sales, and financial performance to support data-driven business decisions. Proficient in process automation, advanced DAX, and 
 data visualization techniques to deliver clear and actionable insights. Passionate about leveraging Business Intelligence tools to 
-transform raw data into strategies that drive business growth
+transform raw data into strategies that drive business growth**
 ---
 
 ## 🧰 Skill Badge Wall
