@@ -18,8 +18,11 @@ This file is meant for the repo named the same as your username: NaderJohn/Nader
 ---
 
 ### 🚀 About Me
-Junior **Data Analyst & BI Developer** with hands-on experience in **SQL**, **Power BI**, and **Python**. I design robust data models (star/snowflake), build automated ETL, and deliver **interactive dashboards** that turn raw data into **clear, actionable insights**. I enjoy optimizing performance, writing clean DAX, and telling data stories that drive decisions. :contentReference[oaicite:1]{index=1}
-
+Junior Data Analyst & BI Developer with experience in SQL, Power BI, and Python. Skilled in data preparation, modeling, and building 
+star schemas to ensure accurate reporting and analysis. Experienced in designing interactive dashboards and reports that track KPIs, 
+sales, and financial performance to support data-driven business decisions. Proficient in process automation, advanced DAX, and 
+data visualization techniques to deliver clear and actionable insights. Passionate about leveraging Business Intelligence tools to 
+transform raw data into strategies that drive business growth.
 ---
 
 ### 🧰 Tech Stack
@@ -55,15 +58,7 @@ Browse: **[Power BI Projects folder](https://github.com/NaderJohn/iTi/tree/224f2
 ### ✨ What I’m Proud Of
 - Turning messy data into reliable **semantic models** and **clear dashboards**  
 - Writing clean **SQL** & performant **DAX**  
-- Documenting assumptions and delivering **presentations** stakeholders understand
-
----
-
-### 📈 GitHub Snapshot
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaderJohn&show_icons=true&hide_title=true&count_private=true" height="145" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaderJohn&layout=compact&hide_title=true" height="145" />
-</p>
+- Documenting assumptions and delivering **presentations** so that stakeholders understand
 
 ---
 
