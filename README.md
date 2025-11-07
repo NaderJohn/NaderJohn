@@ -66,9 +66,7 @@ transform raw data into strategies that drive business growth**
 ### ⚙️ Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Azure%20Basics-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=fff" />
   <img src="https://img.shields.io/badge/Power%20Query-0E5C2F?style=for-the-badge&logo=microsoft-excel&logoColor=fff" />
 </p>
 
