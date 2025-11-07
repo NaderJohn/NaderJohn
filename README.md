@@ -48,7 +48,7 @@ transform raw data into strategies that drive business growth**
 ### 🗄️ Databases & Modeling
 <p>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=fff" />
-  <img src="https://img.shields.io/badge/T--SQL-00758F?style=for-the-badge&logo=microsoft-sql-server&logoColor=fff" />
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=microsoft-sql-server&logoColor=fff" />
   <img src="https://img.shields.io/badge/Data%20Warehouse-0A66C2?style=for-the-badge&logo=databricks&logoColor=fff" />
   <img src="https://img.shields.io/badge/Dimensional%20Modeling-5C6BC0?style=for-the-badge" />
 </p>
@@ -65,7 +65,7 @@ transform raw data into strategies that drive business growth**
 <!-- Tools -->
 ### ⚙️ Tools & Platforms
 <p>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=fff" />
+  <img src="https://img.shields.io/badge/PowerBi-217346?style=for-the-badge&logo=microsoft-excel&logoColor=fff" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" />
   <img src="https://img.shields.io/badge/Power%20Query-0E5C2F?style=for-the-badge&logo=microsoft-excel&logoColor=fff" />
 </p>
