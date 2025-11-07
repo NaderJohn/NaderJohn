@@ -38,7 +38,7 @@ I build **end-to-end analytics solutions**: data modeling, **SQL Server** backen
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=000" />
   <img src="https://img.shields.io/badge/SSRS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=fff" />
   <img src="https://img.shields.io/badge/SSIS-FF6C37?style=for-the-badge&logo=microsoft-sql-server&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=fff" />
+ 
 </p>
 
 <!-- Databases -->
@@ -95,14 +95,6 @@ Browse 👉 **https://github.com/NaderJohn/iTi/tree/main/PowerBi**
 
 ### 🐍 Python Analytics
 - Customer Churn • Hotel Bookings • Netflix EDA (Pandas/NumPy/Matplotlib)
-
----
-
-## 📈 GitHub Snapshot
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaderJohn&show_icons=true&count_private=true&hide_title=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaderJohn&layout=compact&hide_title=true" height="150" />
-</div>
 
 ---
 
